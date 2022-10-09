@@ -1,2 +1,2 @@
 # pgSeekers
-Hello PG Seekers from navaidmails
+Hello PG Seekers from navaidmails@gmail.com
